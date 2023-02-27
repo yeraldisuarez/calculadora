@@ -1,6 +1,9 @@
 body{
     background-color: rgb(251, 226, 253);
 }
+h1{
+    color: blueviolet;
+}
 .color-custom{
     background-color: rgb(255, 0, 242);
     color: white;
