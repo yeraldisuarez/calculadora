@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(251, 226, 253);
+}
+.color-custom{
+    background-color: rgb(255, 0, 242);
+    color: white;
+    border-color: rgb(255, 0, 242);
+}
+.color-custom:hover{
+    background-color: blueviolet;
+    border-color: blueviolet;
+    color: white;
+}
+.color-custom2{
+    height: 40px;
+    background-color: rgba(137, 43, 226, 0.205);
+    color: rgba(0, 0, 0, 0.801);
+    text-align: center;
+    
+}
+.color-custom:active{
+    background-color: blueviolet;
+    border-color: blueviolet;
+    border-bottom-style: double;
+}
+
+
